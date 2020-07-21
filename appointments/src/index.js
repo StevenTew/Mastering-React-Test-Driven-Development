@@ -6,4 +6,4 @@ import { sampleAppointments } from './sampleData'
 ReactDOM.render(
   <AppointmentsDayView appointments={sampleAppointments} />,
   document.getElementById('root')
-)
+);

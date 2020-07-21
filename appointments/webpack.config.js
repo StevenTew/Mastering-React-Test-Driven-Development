@@ -5,7 +5,7 @@ module.exports = {
   mode: "development",
   module: {
     rules: [{
-      test: /\.(jsjsx)$/,
+      test: /\.(js|jsx)$/,
       exclude: /node_modules/,
       loader: 'babel-loader'
     }]

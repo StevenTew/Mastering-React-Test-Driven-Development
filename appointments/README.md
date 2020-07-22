@@ -28,4 +28,4 @@ Build the application using this command:
 
     npm run build
 
-Note: this project does not include a server.
+Note: this project does not include a server. You can open the app by browsing to `dist/index.html`.
